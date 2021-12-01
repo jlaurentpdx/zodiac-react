@@ -22,7 +22,7 @@ From the [assignment](https://alchemycodelab.github.io/react-zodiac/):
 >
 > ## Acceptance Criteria
 >
-> - [ ] App should contain a `<Header>` and `<Footer>` component with their own individual style sheets imported into the JSX file
+> - [x] App should contain a `<Header>` and `<Footer>` component with their own individual style sheets imported into the JSX file
 > - [ ] App should have a `<Main>` component which imports the list of zodiac signs
 > - [ ] `<Main>` component should map over the list of zodiac signs and pass the data as props to a child component <ZodiacCard>
 > - [ ] `<ZodiacCard>` should display the Zodiac sign’s image, name and dates
