@@ -23,7 +23,7 @@ From the [assignment](https://alchemycodelab.github.io/react-zodiac/):
 > ## Acceptance Criteria
 >
 > - [x] App should contain a `<Header>` and `<Footer>` component with their own individual style sheets imported into the JSX file
-> - [ ] App should have a `<Main>` component which imports the list of zodiac signs
-> - [ ] `<Main>` component should map over the list of zodiac signs and pass the data as props to a child component <ZodiacCard>
-> - [ ] `<ZodiacCard>` should display the Zodiac sign’s image, name and dates
+> - [x] App should have a `<Main>` component which imports the list of zodiac signs
+> - [x] `<Main>` component should map over the list of zodiac signs and pass the data as props to a child component <ZodiacCard>
+> - [x] `<ZodiacCard>` should display the Zodiac sign’s image, name and dates
 > - [x] App should be deployed on Netlify, with the link to the site in the Github repository
