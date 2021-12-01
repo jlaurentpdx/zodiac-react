@@ -1,8 +1,9 @@
 header {
-  width: 100%;
-  padding: 1%;
+  position: relative;
+  top: 0;
 
   text-align: left;
+  padding: 1% 0 1% 1%;
 
   color: whitesmoke;
   background-color: darkslategrey;
